@@ -1,0 +1,43 @@
+.createEvents-block {
+    margin-left: 50%;
+    margin-top: 10%
+}
+
+.createEvents-block_buttonDiv {
+    margin-top: 10px;
+    width: 257px;
+    text-align: right;
+}
+
+.createEvents-block_buttonDiv button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.createEvents-block input {
+    border-color: cornflowerblue;
+    width: 170px;
+}
+
+.createEvents-block_input_c1Date {
+    margin-left: 24px;
+}
+
+.createEvents-block_input_title {
+    margin-left: 5px;
+}
+
+.createEvents-block_input_start {
+    margin-left: 10px;
+}
+
+.createEvents-block_input_cNext {
+    margin-left: 14px;
+}
+
+.createEvents-block_input_finish {
+    margin-left: 4px;
+}

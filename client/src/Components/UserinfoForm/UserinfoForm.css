@@ -1,0 +1,49 @@
+.userinfoForm-right {
+    margin-right: 0;
+    margin-left: 40%;
+    width: 600px;
+}
+
+.userinfoForm-right_updatePanel {
+    width: 588px;
+    background-color: skyblue;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.userinfoForm-right_p {
+    padding-left: 20px;
+}
+
+.userinfoForm-right_block {
+    margin-top: 10px;
+    width: 600px;
+    border: 1px solid cornflowerblue;
+}
+
+.userinfoForm-right_setPIN {
+    background-color: orange;
+    border: 1px solid cornflowerblue;
+    width: 70px;
+    height: 25px;
+    color: white;
+}
+
+.userinfoForm-right-buttonDiv {
+    margin-top: 10px;
+    width: 600px;
+    text-align: right;
+}
+
+.userinfoForm-right-buttonDiv button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.userinfoForm-right-block_setPIN {
+    width: 570px;
+    text-align: right;
+}

@@ -1,0 +1,27 @@
+.updateLoginForm-block {
+    width: fit-content;
+    margin: 15% auto auto;
+    justify-content: flex-end
+}
+
+.updateLoginForm-block_label {
+    text-align: right;
+    width: 350px;
+}
+
+.updateLoginForm-block_input {
+    border-color: cornflowerblue;
+}
+
+.updateLoginForm-block_button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.updateLoginForm-block_buttonDiv {
+    width: 288px;
+    text-align: right;
+}

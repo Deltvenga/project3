@@ -1,0 +1,48 @@
+.homeForm-block {
+    margin-top: 15%
+}
+
+.homeForm-block_users {
+    width: 250px;
+    height: 150px;
+    border: 1px solid cornflowerblue;
+    margin-left: 20%;
+}
+
+.homeForm-block_header {
+    background-color: skyblue;
+    height: 30px;
+    width: 241px;
+    padding-left: 10px;
+}
+
+.homeForm-block_users p {
+    padding-left: 20px;
+    line-height: 15px
+}
+
+.homeForm-block_events {
+    width: 250px;
+    height: 150px;
+    border: 1px solid cornflowerblue;
+    margin-left: 40%;
+    margin-top: -10%
+}
+
+.homeForm-block_events p {
+    padding-left: 20px;
+    line-height: 15px
+}
+
+.homeForm-block_documents {
+    width: 250px;
+    height: 150px;
+    border: 1px solid cornflowerblue;
+    margin-left: 60%;
+    margin-top: -10%
+}
+
+.homeForm-block_documents p {
+    padding-left: 20px;
+    line-height: 15px
+}

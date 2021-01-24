@@ -1,0 +1,44 @@
+.eventsInfo {
+    margin-right: 0;
+    margin-left: 40%;
+    width: 600px;
+}
+
+.eventsInfo-block_panel {
+    width: 588px;
+    background-color: skyblue;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.eventsInfo-block {
+    margin-top: 10px;
+    width: 600px;
+    border: 1px solid cornflowerblue;
+}
+
+.eventsInfo-block p {
+    padding-left: 20px;
+}
+
+.eventsInfo-block_participants {
+    background-color: orange;
+    border: 1px solid cornflowerblue;
+    width: 70px;
+    height: 25px;
+    color: white;
+}
+
+.eventsInfo-block_buttonDiv {
+    margin-top: 30px;
+    width: 600px;
+    text-align: right;
+}
+
+.eventsInfo-block_buttonDiv button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}

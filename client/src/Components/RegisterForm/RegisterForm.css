@@ -1,0 +1,32 @@
+.registerForm-right {
+    margin-left: 40%;
+    width: 600px;
+}
+
+.registerForm-right_p {
+    width: 300px;
+}
+
+.registerForm-right_p label {
+    text-align: right;
+    margin-right: 10px;
+    width: 100px;
+}
+
+.registerForm-right input {
+    border-color: cornflowerblue
+}
+
+.registerForm-right_buttonDiv {
+    margin-top: 10px;
+    width: 300px;
+    text-align: right;
+}
+
+.registerForm-right_buttonDiv button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}

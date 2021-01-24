@@ -1,0 +1,30 @@
+.eventsListForm-table {
+    margin-top: 5%;
+    margin-left: 30%
+}
+
+.eventsListForm-table table {
+    width: 700px;
+    border: 1px solid white
+}
+
+.eventsListForm-table tr {
+    color: white;
+    background-color: steelblue;
+    text-align: left;
+}
+
+.eventsListForm-table td {
+    width: 400px;
+    background-color: lightsteelblue;
+    color: black;
+    padding-left: 10px
+}
+
+.eventsListForm-table th {
+    padding-left: 5px
+}
+
+.eventsListForm-table_tr {
+    height: 23px
+}

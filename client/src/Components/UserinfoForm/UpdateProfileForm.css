@@ -1,0 +1,41 @@
+.updateProfileForm-block {
+    width: fit-content;
+    justify-content: flex-end;
+    margin: 15% 0 auto 40%;
+}
+
+.updateProfileForm-block_input {
+    border-color: cornflowerblue;
+    margin-left: 10px;
+    width: 200px
+}
+
+.updateProfileForm-block_about {
+    border: 2px solid cornflowerblue;
+    width: 200px;
+    height: 100px;
+    margin-left: 42px
+}
+
+.updateProfileForm-block_input_country {
+    border-color: cornflowerblue;
+    margin-left: 28px;
+    width: 200px
+}
+
+.updateProfileForm-block label {
+    text-align: right
+}
+
+.updateProfileForm-block_button {
+    color: white;
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.updateProfileForm-block_buttonDiv {
+    width: 295px;
+    text-align: right;
+}
